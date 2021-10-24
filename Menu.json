@@ -6,7 +6,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_0088-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/1.jpg"
     },
     {
         "id":2,
@@ -15,7 +15,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_0111-Edit-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/2.jpg"
     },
     {
         "id":3,
@@ -24,7 +24,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_0129-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/3.jpg"
     },
     {
         "id":4,
@@ -33,7 +33,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9437-Edit-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
     },
     {
         "id":5,
@@ -42,7 +42,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9447-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/5.jpg"
     },
     {
         "id":6,
@@ -51,7 +51,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9453-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/6.jpg"
     },
     {
         "id":7,
@@ -60,7 +60,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9459-Edit-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
     },
     {
         "id":8,
@@ -69,7 +69,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9462-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/8.jpg"
     },
     {
         "id":9,
@@ -78,7 +78,7 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9464-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/9.jpg"
     },
     {
         "id":10,
@@ -87,6 +87,6 @@
         "price":"350",
         "type":"veg",
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/DSC_9708-min.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/10.jpg"
     }
 ]
