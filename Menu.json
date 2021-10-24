@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "recipeName":"Mutton Roll",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_0088-min.jpg"
+    },
+    {
+        "id":2,
+        "recipeName":"Chicken Roll",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_0111-Edit-min.jpg"
+    },
+    {
+        "id":3,
+        "recipeName":"Biriyani",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_0129-min.jpg"
+    },
+    {
+        "id":4,
+        "recipeName":"Fried rice",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9437-Edit-min.jpg"
+    },
+    {
+        "id":5,
+        "recipeName":"Egg Roll",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9447-min.jpg"
+    },
+    {
+        "id":6,
+        "recipeName":"Mutton Roll",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9453-min.jpg"
+    },
+    {
+        "id":7,
+        "recipeName":"Chicken Roll",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9459-Edit-min.jpg"
+    },
+    {
+        "id":8,
+        "recipeName":"Biriyani",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9462-min.jpg"
+    },
+    {
+        "id":9,
+        "recipeName":"Fried rice",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9464-min.jpg"
+    },
+    {
+        "id":10,
+        "recipeName":"Egg Roll",
+        "recipeDescription":"lorem ipsum dolor est",
+        "price":"350",
+        "type":"veg",
+        "special":true,
+        "image":"../../images/menu/DSC_9708-min.jpg"
+    }
+]
