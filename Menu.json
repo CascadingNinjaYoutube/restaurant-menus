@@ -4,7 +4,7 @@
         "recipeName":"Mutton Roll",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/1.jpg"
     },
@@ -13,7 +13,7 @@
         "recipeName":"Chicken Roll",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/2.jpg"
     },
@@ -22,7 +22,7 @@
         "recipeName":"Biriyani",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/3.jpg"
     },
@@ -31,7 +31,7 @@
         "recipeName":"Fried rice",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
     },
@@ -40,7 +40,7 @@
         "recipeName":"Egg Roll",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/5.jpg"
     },
@@ -49,7 +49,7 @@
         "recipeName":"Mutton Roll",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/6.jpg"
     },
@@ -58,7 +58,7 @@
         "recipeName":"Chicken Roll",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
     },
@@ -67,7 +67,7 @@
         "recipeName":"Biriyani",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/8.jpg"
     },
@@ -76,7 +76,7 @@
         "recipeName":"Fried rice",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/9.jpg"
     },
@@ -85,7 +85,7 @@
         "recipeName":"Egg Roll",
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
-        "type":"veg",
+        "veg":true,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/10.jpg"
     }
