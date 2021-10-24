@@ -14,7 +14,7 @@
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
         "veg":true,
-        "special":true,
+        "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/2.jpg"
     },
     {
@@ -23,7 +23,7 @@
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
         "veg":false,
-        "special":true,
+        "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/3.jpg"
     },
     {
@@ -32,7 +32,7 @@
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
         "veg":false,
-        "special":true,
+        "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
     },
     {
@@ -41,7 +41,7 @@
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
         "veg":true,
-        "special":true,
+        "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/5.jpg"
     },
     {
@@ -50,7 +50,7 @@
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
         "veg":false,
-        "special":true,
+        "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/6.jpg"
     },
     {
@@ -59,7 +59,7 @@
         "recipeDescription":"lorem ipsum dolor est",
         "price":"350",
         "veg":true,
-        "special":true,
+        "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
     },
     {
