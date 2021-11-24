@@ -1,92 +1,56 @@
 [
     {
         "id":1,
-        "recipeName":"Mutton Roll",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
+        "recipeName":"Chicken Pulao",
+        "recipeDescription":"Original pressure cooked marinated aromatic pulao rice layered with ghee serve with juicy, tender roasted chicken.",
+        "price":"299",
         "veg":true,
         "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/1.jpg"
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/8.jpg"
     },
     {
         "id":2,
-        "recipeName":"Chicken Roll",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
-        "veg":true,
-        "special":false,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/2.jpg"
-    },
-    {
-        "id":3,
-        "recipeName":"Biriyani",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
-        "veg":false,
-        "special":false,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/3.jpg"
-    },
-    {
-        "id":4,
-        "recipeName":"Fried rice",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
-        "veg":false,
-        "special":false,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
-    },
-    {
-        "id":5,
-        "recipeName":"Egg Roll",
-        "recipeDescription":"lorem ipsum dolor est",
+        "recipeName":"Mutton Pulao",
+        "recipeDescription":"Original pressure cooked marinated tender roasted mutton served with aromatic pulao rice.",
         "price":"350",
         "veg":true,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/5.jpg"
     },
     {
-        "id":6,
-        "recipeName":"Mutton Roll",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
+        "id":3,
+        "recipeName":"Prawn Pulao",
+        "recipeDescription":"Original low flamed cooked juicy porn served with aromatic pulao rice.",
+        "price":"169",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/6.jpg"
     },
     {
-        "id":7,
-        "recipeName":"Chicken Roll",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
-        "veg":true,
+        "id":4,
+        "recipeName":"Chicken Jali Kebab",
+        "recipeDescription":"Original complicated marinated net textured deep fried flavourful roasted chicken.",
+        "price":"120",
+        "veg":false,
         "special":false,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
-    },
-    {
-        "id":8,
-        "recipeName":"Biriyani",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
-        "veg":true,
-        "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/8.jpg"
-    },
-    {
-        "id":9,
-        "recipeName":"Fried rice",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
-        "veg":true,
-        "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/9.jpg"
     },
     {
-        "id":10,
-        "recipeName":"Egg Roll",
-        "recipeDescription":"lorem ipsum dolor est",
-        "price":"350",
+        "id":5,
+        "recipeName":"Mutton kebab",
+        "recipeDescription":"Soft tender flavourful mutton semi fried.",
+        "price":"180",
         "veg":true,
-        "special":true,
-        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/10.jpg"
+        "special":false,
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
+    },
+    {
+        "id":6,
+        "recipeName":"Shami Kebabl",
+        "recipeDescription":"Authentic deep fried tender marinated flavourful chicken.",
+        "price":"150",
+        "veg":false,
+        "special":false,
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/1.jpg"
     }
 ]
