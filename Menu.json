@@ -4,7 +4,7 @@
         "recipeName":"Chicken Pulao",
         "recipeDescription":"Original pressure cooked marinated aromatic pulao rice layered with ghee serve with juicy, tender roasted chicken.",
         "price":"299",
-        "veg":true,
+        "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/8.jpg"
     },
@@ -13,7 +13,7 @@
         "recipeName":"Mutton Pulao",
         "recipeDescription":"Original pressure cooked marinated tender roasted mutton served with aromatic pulao rice.",
         "price":"350",
-        "veg":true,
+        "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/5.jpg"
     },
@@ -40,7 +40,7 @@
         "recipeName":"Mutton kebab",
         "recipeDescription":"Soft tender flavourful mutton semi fried.",
         "price":"180",
-        "veg":true,
+        "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
     },
