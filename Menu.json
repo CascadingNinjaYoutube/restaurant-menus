@@ -52,5 +52,14 @@
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/10.jpg"
+    },
+    {
+        "id":7,
+        "recipeName":"Crispy Patty Pulao ",
+        "recipeDescription":"Original loaded with veegie goodness wraped in crunchy crispers served with aromatic pulao rice.",
+        "price":"150",
+        "veg":true,
+        "special":false,
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
     }
 ]
