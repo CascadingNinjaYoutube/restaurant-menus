@@ -1,59 +1,51 @@
 [
     {
         "id":1,
-        "recipeName":"Chicken Pulao",
+        "recipeName":"Big Fatty",
         "recipeDescription":"Original pressure cooked marinated aromatic pulao rice layered with ghee serve with juicy, tender roasted chicken.",
         "price":"299",
         "veg":false,
-        "image":"chickenPulao.png"
+        "image":"BigFatty.png"
     },
     {
         "id":2,
-        "recipeName":"Mutton Pulao",
+        "recipeName":"Chicken Cheese Bun",
         "recipeDescription":"Original pressure cooked marinated tender roasted mutton served with aromatic pulao rice.",
         "price":"350",
         "veg":false,
-        "image":"muttonPulao.png"
+        "image":"ChickenCheeseBun.png"
     },
     {
         "id":3,
-        "recipeName":"Prawn Pulao",
+        "recipeName":"Crispy Chicken Folds",
         "recipeDescription":"Original low flamed cooked juicy prawn served with aromatic pulao rice.",
         "price":"169",
         "veg":false,
-        "image":"prawnPulao.png"
+        "image":"CrispyChickenFolds.png"
     },
     {
         "id":4,
-        "recipeName":"Chicken Jali Kebab",
+        "recipeName":"Crispy Creepy Folds",
         "recipeDescription":"Original complicated marinated net textured deep fried flavourful roasted chicken.",
         "price":"120",
         "veg":false,
-        "image":"jaliKebab.png"
+        "image":"CrispyCreepyFolds.png"
     },
     {
         "id":5,
-        "recipeName":"Mutton kebab",
+        "recipeName":"Crunchy Chicken Cheese Folds",
         "recipeDescription":"Soft tender flavourful mutton semi fried.",
         "price":"180",
         "veg":false,
-        "image":"muttonKebab.png"
+        "image":"CrunchyChickenCheeseFolds.png"
     },
     {
         "id":6,
-        "recipeName":"Shami Kebab",
+        "recipeName":"Crunchy Fries",
         "recipeDescription":"Authentic deep fried tender marinated flavourful chicken.",
         "price":"150",
         "veg":false,
-        "image":"shamiKebab.png"
+        "image":"CrunchyFries.png"
     }
-    ,
-    {
-        "id":7,
-        "recipeName":"Crispy Patty Pulao ",
-        "recipeDescription":"Original loaded with veegie goodness wraped in crunchy crispers served with aromatic pulao rice.",
-        "price":"150",
-        "veg":true,
-        "image":"crispyPatty.png"
-    }
+    
 ]
