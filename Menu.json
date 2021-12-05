@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "recipeName":"Chicken Pulao",
+        "recipeName":" Roasted Chicken Pulao",
         "recipeDescription":"Original pressure cooked marinated aromatic pulao rice layered with ghee serve with juicy, tender roasted chicken.",
         "price":"299",
         "veg":false,
@@ -10,7 +10,7 @@
     },
     {
         "id":2,
-        "recipeName":"Mutton Pulao",
+        "recipeName":"Roasted Mutton Pulao",
         "recipeDescription":"Original pressure cooked marinated tender roasted mutton served with aromatic pulao rice.",
         "price":"350",
         "veg":false,
@@ -61,5 +61,32 @@
         "veg":true,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
+    },
+    {
+        "id":8,
+        "recipeName":"Roasted Chicken Curry ",
+        "recipeDescription":"Marinated juicy roasted chicken with medium gravy",
+        "price":"150",
+        "veg":false,
+        "special":false,
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/3.jpg"
+    },
+    {
+        "id":9,
+        "recipeName":"Duo Prawn ",
+        "recipeDescription":"Marinated low flamed juicy prawns dipped in medium gravy.",
+        "price":"150",
+        "veg":false,
+        "special":false,
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/2.jpg"
+    },
+    {
+        "id":10,
+        "recipeName":" Roasted Mutton Curry",
+        "recipeDescription":"Marinated juicy roasted mutton with medium gravy.",
+        "price":"150",
+        "veg":false,
+        "special":false,
+        "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
     }
 ]
