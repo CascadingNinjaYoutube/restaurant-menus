@@ -64,7 +64,7 @@
     },
     {
         "id":8,
-        "recipeName":"Roasted Chicken Curry ",
+        "recipeName":"Roasted Chicken Gravy ",
         "recipeDescription":"Marinated juicy roasted chicken with medium gravy",
         "price":"150",
         "veg":false,
@@ -82,7 +82,7 @@
     },
     {
         "id":10,
-        "recipeName":" Roasted Mutton Curry",
+        "recipeName":" Roasted Mutton Gravy",
         "recipeDescription":"Marinated juicy roasted mutton with medium gravy.",
         "price":"150",
         "veg":false,
