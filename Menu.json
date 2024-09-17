@@ -3,7 +3,7 @@
         "id":1,
         "recipeName":" Roasted Chicken Pulao",
         "recipeDescription":"Original pressure cooked marinated aromatic pulao rice layered with ghee serve with juicy, tender roasted chicken.",
-        "price":"299",
+        "price":"",
         "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/8.jpg"
@@ -12,7 +12,7 @@
         "id":2,
         "recipeName":"Roasted Mutton Pulao",
         "recipeDescription":"Original pressure cooked marinated tender roasted mutton served with aromatic pulao rice.",
-        "price":"350",
+        "price":"",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/5.jpg"
@@ -21,7 +21,7 @@
         "id":3,
         "recipeName":"Prawn Pulao",
         "recipeDescription":"Original low flamed cooked juicy prawn served with aromatic pulao rice.",
-        "price":"169",
+        "price":"",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/6.jpg"
@@ -30,7 +30,7 @@
         "id":4,
         "recipeName":"Chicken Jali Kebab",
         "recipeDescription":"Original complicated marinated net textured deep fried flavourful roasted chicken.",
-        "price":"120",
+        "price":"",
         "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/9.jpg"
@@ -39,7 +39,7 @@
         "id":5,
         "recipeName":"Mutton kebab",
         "recipeDescription":"Soft tender flavourful mutton semi fried.",
-        "price":"180",
+        "price":"",
         "veg":false,
         "special":true,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/1.jpg"
@@ -48,7 +48,7 @@
         "id":6,
         "recipeName":"Shami Kebab",
         "recipeDescription":"Authentic deep fried tender marinated flavourful chicken.",
-        "price":"150",
+        "price":"",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/10.jpg"
@@ -57,7 +57,7 @@
         "id":7,
         "recipeName":"Crispy Patty Pulao ",
         "recipeDescription":"Original loaded with veegie goodness wraped in crunchy crispers served with aromatic pulao rice.",
-        "price":"150",
+        "price":"",
         "veg":true,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/7.jpg"
@@ -66,7 +66,7 @@
         "id":8,
         "recipeName":"Roasted Chicken Gravy ",
         "recipeDescription":"Marinated juicy roasted chicken with medium gravy",
-        "price":"150",
+        "price":"",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/3.jpg"
@@ -75,7 +75,7 @@
         "id":9,
         "recipeName":"Duo Prawn ",
         "recipeDescription":"Marinated low flamed juicy prawns dipped in medium gravy.",
-        "price":"150",
+        "price":"",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/2.jpg"
@@ -84,7 +84,7 @@
         "id":10,
         "recipeName":" Roasted Mutton Gravy",
         "recipeDescription":"Marinated juicy roasted mutton with medium gravy.",
-        "price":"150",
+        "price":"",
         "veg":false,
         "special":false,
         "image":"https://cascadingninjayoutube.github.io/restaurant-menus/4.jpg"
